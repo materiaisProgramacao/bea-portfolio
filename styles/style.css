@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 3rem 0rem 0rem 3rem;
+    color: aliceblue;
+}
+
+head{
+    margin-bottom: 6rem;
+}
+
+a{
+    margin-right: 3rem;
+    color: aliceblue;
+}
+
+main{
+    margin-left: 6rem;
+    font-weight: bolder;
+}
+
+h1{
+    font-size: 4rem;
+    margin-bottom: 1.5rem;
+}
+
+img{
+    width: 9rem;
+}
+
+.subtitulo{
+    font-size: 2rem;
+}
+
+.logo-css{
+    width: 6.6rem;
+}
+
+.treinamento{
+    margin-bottom: 4rem;
+}
+
+html { 
+    background: url(../images/bg.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
